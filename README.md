@@ -15,19 +15,19 @@ Personal dotfiles for gentoo linux in a windows xp style but with sexy dark mode
 
 ![gtk-theme-raleigh]("https://github.com/thesquash/gtk-theme-raleigh")
 ---
-## Prerequisites
+## Reccomended Apps To Install
 
 | type    |  name  |
 |--------:|:-------|
-| distro  | gentoo |
-| kernel  | zsh (bash but better) |
+| distro  | Gentoo |
+| kernel  | ZSH |
 | file manager (GUI)| XFE |
-| browser | firefox |
-| text editor | vim |
-| IDE / text editor for projects | vscode |
-| image editor | vim |
-| photography image editor| rawtherapee|
-| video editor | vim |
+| browser | Firefox |
+| text editor | Vim |
+| IDE / text editor for projects | VSCode |
+| image editor | Gimp |
+| photography image editor| RawTheRapee|
+| video editor | KdenLive |
 | music production | LMMS |
 | Dj mixing software| MIXXX|
 
