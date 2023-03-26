@@ -13,6 +13,24 @@ Personal dotfiles for gentoo linux in a windows xp style but with sexy dark mode
 <img src="https://raw.githubusercontent.com/thesquash/gtk-theme-raleigh/master/screenshots/Raleigh-MATE-1-26.png" height="240px"></img>
 <img src="https://raw.githubusercontent.com/thesquash/gtk-theme-raleigh/master/screenshots/Raleigh-Dark-MATE-1-26.png" height="240px"></img>
 
+![gtk-theme-raleigh]("https://github.com/thesquash/gtk-theme-raleigh")
+---
+## Prerequisites
+
+| type    |  name  |
+|--------:|:-------|
+| distro  | gentoo |
+| kernel  | zsh (bash but better) |
+| file manager (GUI)| XFE |
+| browser | firefox |
+| text editor | vim |
+| IDE / text editor for projects | vscode |
+| image editor | vim |
+| photography image editor| rawtherapee|
+| video editor | vim |
+| music production | LMMS |
+| Dj mixing software| MIXXX|
+
 ---
 
 ## Installation
@@ -20,15 +38,15 @@ Personal dotfiles for gentoo linux in a windows xp style but with sexy dark mode
 ### Installing all the software
 ```bash
 
-hello
+sudo emerge --ask www-client/firefox-bin ; sudo emerge --ask www-client/thunar-bin
 
 ```
 
 ### Installing the dotfiles(this repository)
 ```bash
 
-sudo ... get ...; bla
+git clone https://github.com/smiddy-001/gentoo-dotfiles.git
 cd gentoo-dotfiles
-bash autosetup.sh
+bash build.sh
 
 ```
