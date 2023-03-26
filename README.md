@@ -36,6 +36,7 @@ Fira Code
 |--------:|:-------|
 | distro  | arcolinux |
 | kernel  | ZSH |
+| arch user repository | yay |
 | file manager (GUI)| XFE |
 | browser | Firefox |
 | text editor | Vim |
@@ -53,7 +54,7 @@ Fira Code
 ### Installing all the software
 ```bash
 
-sudo emerge --ask www-client/firefox-bin ; sudo emerge --ask www-client/thunar-bin
+sudo pacman -S zsh firefox vim gimp vscode rawtherapee kdenlive lmms mixxx yay
 
 ```
 
