@@ -14,6 +14,21 @@ Personal dotfiles for gentoo linux in a windows xp style but with sexy dark mode
 <img src="https://raw.githubusercontent.com/thesquash/gtk-theme-raleigh/master/screenshots/Raleigh-Dark-MATE-1-26.png" height="240px"></img>
 
 ![gtk-theme-raleigh]("https://github.com/thesquash/gtk-theme-raleigh")
+
+```color
+highlight: #49667f
+Foreground: #ffffff
+Background: #232424
+Border: #131414
+Background-dimm: #2e3436
+Background-lighter: #434444
+```
+
+```font
+Atkinson HyperLegible
+Fira Code
+```
+
 ---
 ## Reccomended Apps To Install
 
