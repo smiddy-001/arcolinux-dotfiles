@@ -1,5 +1,5 @@
-# gentoo-dotfiles
-Personal dotfiles for gentoo linux in a windows xp style but with sexy dark mode enabled.
+# arcolinux-dotfiles
+Personal dotfiles for arcolinux linux in a windows xp style but with sexy dark mode enabled.
 
 ---
 ## Screenshots
@@ -34,7 +34,7 @@ Fira Code
 
 | type    |  name  |
 |--------:|:-------|
-| distro  | Gentoo |
+| distro  | arcolinux |
 | kernel  | ZSH |
 | file manager (GUI)| XFE |
 | browser | Firefox |
@@ -60,8 +60,8 @@ sudo emerge --ask www-client/firefox-bin ; sudo emerge --ask www-client/thunar-b
 ### Installing the dotfiles(this repository)
 ```bash
 
-git clone https://github.com/smiddy-001/gentoo-dotfiles.git
-cd gentoo-dotfiles
+git clone https://github.com/smiddy-001/arcolinux-dotfiles.git
+cd arcolinux-dotfiles
 bash build.sh
 
 ```
