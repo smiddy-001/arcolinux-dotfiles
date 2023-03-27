@@ -51,14 +51,14 @@ Fira Code
 
 ## Installation
 
-### Installing all the software
+### Installing software
 ```bash
 
 sudo pacman -S zsh firefox vim gimp vscode rawtherapee kdenlive lmms mixxx yay
 
 ```
 
-### Installing the dotfiles(this repository)
+### Installing configs
 ```bash
 
 git clone https://github.com/smiddy-001/arcolinux-dotfiles.git
